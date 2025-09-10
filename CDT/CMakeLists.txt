@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.4...4.0)
+cmake_minimum_required(VERSION 3.13.0...4.0)
 
 project(
     "CDT"
